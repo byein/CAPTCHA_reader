@@ -11,4 +11,5 @@ colab에서 .ipynb 형식의 파일을 이용해 코드를 입력하였습니다
 
 ### 참고자료
 해당 코드에서 이미지 딥러닝에 대해서 많이 참고하였습니다.
+
 https://www.kaggle.com/ritabratanag/captcha-95-accuracy
