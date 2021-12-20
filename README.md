@@ -31,6 +31,13 @@ Thumbnail image from [Accessibility of CAPTCHAs]
 Inspiration<br>
 This dataset is a perfect opportunity to attempt to make Optical Character Recognition algorithms.
   
+  
+  
+samples 파일은 데이터입니다. 실제 소스코드에서는 해당 samples를 사용하지 않고 kaggle에서 바로 가져와 사용합니다. 하지만 이 과정은 kaggle.json 파일이 있어야 합니다. 이는 개인 API 키이기 때문에 해당 파일을 업로드 하지는 않았습니다. 따라서 samples 파일을 혹시 몰라 같이 첨부합니다.
+
+(혹시 kaggle의 API 키가 있다면 첨부된 데이터가 아닌 본인의 키를 사용하셔도 됩니다.)
+
+
 ### 코드 동작 순서
 1. Kaggle 데이터 사용을 위한 초기 세팅 - kaggle & colab 연동 방식 사용.
 2. Import Libraries
