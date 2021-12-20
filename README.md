@@ -10,5 +10,6 @@ colab에서 .ipynb 형식의 파일을 이용해 코드를 입력하였습니다
 데이터는 kaggle에서 제공하는 CAPTCHA Images 를 활용하였습니다.
 
 ### 참고자료
-아래 코드에서 이미지 딥러닝에 대해서 많이 참고하였습니다.<br>
-https://www.kaggle.com/ritabratanag/captcha-95-accuracy
+전반적인 참조: https://www.kaggle.com/ritabratanag/captcha-95-accuracy
+
+kaggle 데이터 colab에서 사용하는 법: https://velog.io/@dunhill741/%EA%B5%AC%EA%B8%80-colab%EC%97%90%EC%84%9C-kaggle-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%9D%B4%EC%9A%A9%ED%95%98%EB%8A%94-%EB%B2%95
